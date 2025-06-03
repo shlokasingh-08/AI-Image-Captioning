@@ -1,7 +1,7 @@
 # 🧠 AI Image Captioning with Audio Narration
 Generate funny, sarcastic, or descriptive captions for images using deep learning and OpenAI — with spoken audio output! Powered by BLIP, OpenAI GPT-4, LangChain, and Gradio.
 
-🚀 Features
+# 🚀 Features :
 📸 Image Captioning: Generate detailed captions from images using BLIP.
 
 😄 Humor & Sarcasm: Leverage OpenAI (GPT-4) to generate witty, funny, or sarcastic captions.
@@ -10,7 +10,7 @@ Generate funny, sarcastic, or descriptive captions for images using deep learnin
 
 🖼️ Web UI with Gradio: Easy-to-use interface for uploading images and listening to captions.
 
-🧩 Tech Stack
+# 🧩 Tech Stack
 Transformers (BLIP model by Salesforce)
 
 OpenAI GPT-4 (via LangChain)
@@ -21,7 +21,7 @@ TTS (Text-to-Speech with pyttsx3 or gTTS)
 
 Python 3.9+
 
-🖥️ Demo
+# 🖥️ Demo
 Upload an image, and the app will:
 
 Generate a detailed description using BLIP.
