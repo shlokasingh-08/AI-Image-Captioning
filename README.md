@@ -1,4 +1,4 @@
-#🧠 AI Image Captioning with Audio Narration
+# 🧠 AI Image Captioning with Audio Narration
 Generate funny, sarcastic, or descriptive captions for images using deep learning and OpenAI — with spoken audio output! Powered by BLIP, OpenAI GPT-4, LangChain, and Gradio.
 
 🚀 Features
